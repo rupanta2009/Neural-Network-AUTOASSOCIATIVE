@@ -1,11 +1,6 @@
-//Program			: PROJECT-1 (AUTO ASSOCIATIVE NEURAL NET)
+//Program			: AUTO ASSOCIATIVE NEURAL NET
 //Name				: RUPANTA RWITEEJ DUTTA
-//Email Address		: rrd300@nyu.edu
-//Date of Creation	: 12.04.2016
-//School			: NYU Tandon School of Engineering
-//NYU ID			: N15786532
-//Net ID			: rrd300
-//Subject			: Neural Network Computing
+//Date of Creation		: 12.04.2016
 
 import java.io.*;
 import java.util.*;
